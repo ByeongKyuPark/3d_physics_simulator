@@ -7,4 +7,4 @@ Dependencies: GLAD
 
 Target operating system: Windows (64-bit)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uekUC59itfA/0.jpg)](https://www.youtube.com/watch?v=uekUC59itfA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wj-npeU_qFc/0.jpg)](https://www.youtube.com/watch?v=wj-npeU_qFc)
